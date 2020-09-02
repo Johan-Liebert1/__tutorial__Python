@@ -4,6 +4,8 @@ from requests_html import HTML
 import pandas as pd
 import os
 
+# rgb(119, 255, 255)
+
 BASE_DIR = os.path.dirname(__file__)
 
 now = datetime.datetime.now()
